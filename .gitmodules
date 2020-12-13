@@ -1,0 +1,3 @@
+[submodule "InOut-app"]
+	path = InOut-app
+	url = https://github.com/ranaaditya/InOut-app
