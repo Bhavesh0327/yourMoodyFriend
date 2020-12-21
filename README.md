@@ -9,3 +9,11 @@ With this in mind, I have planned to build a real-time application which will:
 4) Predict the daily mood of the user
 
 The app will follow a decentralised structure, which will train itself according to the user. We have tried to built an app with the most comfortable UI for the user, which can help him/her to maintain a proper schedule to use their mobile phones.
+
+The app currently uses the following submodules:
+<br>
+<a href="https://github.com/ranaaditya/InOut-app"> App client </a>
+<br>
+<a href="https://github.com/adityaa30/Inout-Backend"> Backend </a>
+<br>
+<a href="https://github.com/geforce6t/Mood-extraction"> Mood extractor Model </a>
