@@ -1,3 +1,9 @@
 [submodule "InOut-app"]
 	path = InOut-app
 	url = https://github.com/ranaaditya/InOut-app
+[submodule "Inout-Backend"]
+	path = Inout-Backend
+	url = https://github.com/adityaa30/Inout-Backend.git
+[submodule "Mood-extraction"]
+	path = Mood-extraction
+	url = https://github.com/geforce6t/Mood-extraction
